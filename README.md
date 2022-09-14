@@ -11,4 +11,4 @@ being carried to better fight the disease. The dataset used in this project was 
 Hopkins University Center of System Science and Engineering. They aggregate the data from 
 WHO, national and regional public health and have made it available on a public GitHub.<br />
 
-##This project only took into account the data that was available during December 2020 and does not include any findings that were discovered later. 
+## This project only took into account the data that was available during December 2020 and does not include any findings that were discovered later. 
