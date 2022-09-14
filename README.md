@@ -1,6 +1,6 @@
 # Covid-Data-Analysis
 
-COVID-19, a flu that started with affecting a few countries has now spread worldwide and was 
+COVID-19, a flu that started with affecting a few countries was then spread worldwide and was 
 declared a pandemic by WHO (World Heath Organization) on March 2020 and since has been 
 identified as a threat to the entire world population. Various studies were being conducted by 
 researchers and scientists of all countries to find a cure for the pandemic. This work represents a 
